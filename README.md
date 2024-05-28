@@ -1,0 +1,2 @@
+# bot-hexacore
+bot-hexacore
