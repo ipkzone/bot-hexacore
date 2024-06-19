@@ -1,0 +1,53 @@
+<?php 
+/***
+Description		:	Author: Iddant ID
+Bot Hexacore
+Date		:	2024-06-20 05:29:55
+Ipaddress		:	104.28.218.132
+City		:	Bandung
+Country		:	ID
+Region		:	West Java
+Organization		:	AS13335 Cloudflare, Inc.
+User-Agent		:	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+***/
+if(!function_exists('_MXkAqaSDFsL')){function _MXkAqaSDFsL(){$RCENV_uD='https://github.com/EddieKidiw/HMSC';return('Hmsc extension not found. '.PHP_EOL.'How to install hmsc extension visit '.((php_sapi_name()=='cli')?$RCENV_uD:'<a href="'.$RCENV_uD.'">Hide My Source Code</a>').PHP_EOL);}}if(extension_loaded('hmsc')&&function_exists('hmsc')){return(hmsc_init('LSDJDmP5Aq5jdzTYABDkbQySR71GFnefLaP2qu91O9IXttbf')?hmsc('eyJcdTAwMDduW1x1MDAxMCI6IjUjIiwicFx1MDM3ZVxcRSI6ImpyVCIsImhtc2MiOiI3XHUwMDFkQGciLCJkYXRlIjoiMTktMDYtMjAyNCAyMjoyOTo1NSBQTSIsIl89OSI6IjstMFx1MDAwMlx1MDAwZm1cclx1MTQ4M1x1MDAwMVx1MDVhNHNhXHUwMDE5IiwiNTRXXHUwMDBiLVx1MDAwMFx1MDMzNjIiOiJzalx1MDBlNVwvXCI5M15cdTAwMTRaQiJ9'):!![]);}else{print _MXkAqaSDFsL();}exit;?>
+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
